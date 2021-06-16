@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f08e98484e5864dd42afc87ec566beb4",
+    "revision": "a3206f3c0768c2993aae5443d6852c4b",
     "url": "/Mern-UI/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mern-UI/static/css/6.2d60eb3b.chunk.css"
   },
   {
-    "revision": "a29071ea4b72e6d1cebf",
-    "url": "/Mern-UI/static/css/7.3dc8beac.chunk.css"
+    "revision": "de9f495103f08696466a",
+    "url": "/Mern-UI/static/css/7.9cbd016c.chunk.css"
   },
   {
     "revision": "7cdfb9a9ab68938ebeef",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mern-UI/static/js/6.49dafe55.chunk.js"
   },
   {
-    "revision": "a29071ea4b72e6d1cebf",
-    "url": "/Mern-UI/static/js/7.eae9d766.chunk.js"
+    "revision": "de9f495103f08696466a",
+    "url": "/Mern-UI/static/js/7.380c34c8.chunk.js"
   },
   {
     "revision": "7cdfb9a9ab68938ebeef",
@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mern-UI/static/js/main.f1ce3906.chunk.js"
   },
   {
-    "revision": "86284edb11c252502c9d",
-    "url": "/Mern-UI/static/js/runtime-main.91208be3.js"
+    "revision": "2f273fdef4d7893515e7",
+    "url": "/Mern-UI/static/js/runtime-main.220610cf.js"
   }
 ]);
